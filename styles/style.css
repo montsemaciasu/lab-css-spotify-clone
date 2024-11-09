@@ -116,7 +116,7 @@ nav a {
 
 .greenSection h3 {
   font-size: 20px;
-  margin: 5px;
+  margin: 5px 0px;
 }
 
 .greenSection h4 {
@@ -132,9 +132,8 @@ nav a {
 }
 
 .letra {
-  width: 40%;
+  width: 287px;
   display: grid;
-  flex-direction: column;
 }
 
 .greenSection .spotify-icon-white {
@@ -147,7 +146,6 @@ nav a {
 }
 
 .spotify-app {
-  width: 300px;
-  height: 500px;
-  margin-left: 20px;
+  width: 350px;
+  height: 520px;
 }
